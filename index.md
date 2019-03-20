@@ -132,7 +132,7 @@ special instructions.
   organizers in advance.  If we can help making learning easier for
   you (e.g. sign-language interpreters, <a href="https://campuslifeservices.ucsf.edu/familyservices/services/lactation_accommodation_program/lactation_rooms">lactation   facilities</a> please
   get in touch (using contact details below) and we will
-  attempt to provide them.
+  attempt to provide them).
 </p>
 
 {% comment %}
