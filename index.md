@@ -130,7 +130,7 @@ special instructions.
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
   organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
+  you (e.g. sign-language interpreters, [lactation](https://campuslifeservices.ucsf.edu/familyservices/services/lactation_accommodation_program/lactation_rooms) facilities) please
   get in touch (using contact details below) and we will
   attempt to provide them.
 </p>
